@@ -12,5 +12,5 @@ Once the camera is launched and a human body is detected for every frame the pos
 ## Video
 Click the image below to watch a visual demonstration on YouTube:
 
-[![](https://i9.ytimg.com/vi/o_zFg-RxnzE/mqdefault.jpg?sqp=COy3mLIG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ab4EgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDCCGCIIaksVvNSJRiP9jWOMrQTeA)](https://www.youtube.com/shorts/o_zFg-RxnzE)
+[![](https://i9.ytimg.com/vi/o_zFg-RxnzE/mqdefault.jpg?sqp=CICdnLIG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ab4EgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBLS-tHdg1Qq5UUGvmixMXQOaquuA)](https://www.youtube.com/shorts/o_zFg-RxnzE)
 
